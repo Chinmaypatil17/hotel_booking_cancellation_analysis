@@ -5,7 +5,15 @@ Analysis of **100k+ hotel bookings** to identify cancellation drivers and optimi
 [Hotel Cancellation Dashboard] 
 
 ![Screenshot (289)](https://github.com/user-attachments/assets/11b4be68-7caa-4e69-bf3a-ac3523fd571c)
+https://app.powerbi.com/groups/c727c1a2-a00c-49fe-8e4f-0a4b0d3b190d/reports/ed014f6b-6ab5-4b00-aad4-7236ba0aad1f/46fafb1dc2625b4bba0c?experience=power-bi
+## FActors affecting booking cancellation
 
+- **`is_cancelled`**
+- **`lead_time`**
+- **`market segment`**
+- **`previous cancellation`**
+- **`deposite_type`**
+- **`room_satisfaction`**
 
 
 ## 🔍 Key Insights
